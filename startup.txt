@@ -1,0 +1,66 @@
+*title Cadet Life
+*author Yli-Kuivila, Iikka
+*scene_list
+	startup
+	beginningCharCreation
+	teenageYears
+	youngAdult
+	careerChoices
+	littleSimppu
+	secondYear
+	thirdYear
+	finalMission
+	careerLife
+	fubar
+	ending
+	death
+
+	
+*comment Player stats
+*create playerName "-"
+*create loverName "-"
+*create rank "-"
+	
+*comment General stats
+*create leadership 0
+*create strength 0
+*create intelligence 0
+*create agility 0
+*create wisdom 0
+
+
+*comment Military Science stats
+*create tacticalSense 0
+*create graspOfStrategy 0
+*create fieldOfSpecialisation 0
+*create militaryHistory 0
+*create militaryTechnology 0
+*create militaryPedagogics 0
+
+
+*comment Environment driven stats
+*create wealth 300 
+*create religious 0
+*create magic 500
+*create reputation 200
+*create benevolence 0
+
+
+Welcome to play Cadet Life!
+You always wondered what it would be like in the military.
+Well it depends on the military.
+And wheather you have to carry the 50kg AA-machine gun with your squadmate every time your squad camps.
+
+You will make choices and those choices will have consequences. And you will have to live with them.
+That is if you manage to stay alive.
+
+*set leadership +20
+
+*page_break
+
+Momma provided when she could. It was difficult for a widow to care for three children.
+Dad had left. To heaven. It happened when Charlie was 15 - one day when Dad was coming back home from work he slipped on the icing outside the house.
+The feeling of
+*choice
+	#sadness never left us
+		It still haunts us. After graduation Charlie started to work as trucker.
