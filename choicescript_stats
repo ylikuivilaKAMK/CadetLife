@@ -1,0 +1,26 @@
+Your officer's statistics:
+*line_break
+
+*stat_chart
+	text playerName Name
+	text Rank
+	text reputation
+
+[b]Attributes[/b]
+*stat_chart
+	percent Leadership
+	percent Intelligence
+	percent Agility
+	percent Wisdom
+*line_break	
+	
+[b]Military Sciences[/b]
+*stat_chart
+	percent tacticalSense Tactical Sense
+	percent graspOfStrategy Grasp of Strategy
+	percent fieldOfSpecialisation Specialisation
+	percent militaryHistory Military History
+	percent militaryTechnology Military Technology
+	percent militaryPedagogics Military Pedagogics
+*line_break
+	
